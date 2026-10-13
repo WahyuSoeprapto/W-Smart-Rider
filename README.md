@@ -79,7 +79,7 @@ Untuk mengganti teks berjalan (*Running Text*) yang tampil di layar OLED melalui
 
 ## 🚀 Cara Instalasi Firmware
 
-1. Unduh dan buka repositori ini di **Arduino IDE**.
+1. Unduh file Zip W-Smart Rider lalu extrack dalam 1 folder yang sama dan buka repositori ini di **Arduino IDE**.
 2. Pastikan file `daichi_intro.h` berada dalam satu folder yang sama dengan `W-Smart-Rider.ino`.
 3. Pilih board **ESP32C3 Dev Module** pada opsi Board Manager.
 4. Lakukan *Upload* kode ke board ESP32-C3 Anda.
