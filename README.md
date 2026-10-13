@@ -1,4 +1,4 @@
-# 🛵 W-Smart Rider (ESP32-C3)
+# 🛵 W-Smart Rider Dasboard Motor (ESP32-C3)
 
 **W-Smart Rider** adalah *firmware* untuk *Smart Dashboard* kustom sepeda motor berbasis mikrokontroler ESP32-C3. Perangkat ini terhubung secara nirkabel dengan smartphone Android melalui Bluetooth Low Energy (BLE) menggunakan pustaka ChronosESP32 untuk menampilkan waktu, notifikasi, kontrol musik, navigasi, hingga informasi cuaca secara *real-time*.
 
